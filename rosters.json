@@ -1,0 +1,80 @@
+{"ely":
+{
+    "39": "C. Darroch",
+    "70": "G. Brown",
+    " 9": "D. Estes",
+    "34": "J. Fox",
+    "11": "B. Kinnaird",
+    "15": "B. Homoki",
+    "73": "B. Gardner",
+    "33": "P. Dodge",
+    "38": "R. Bailey",
+    "85": "J. Schreiber",
+    "86": "M. Reed",
+    "36": "T. Salay",
+    "55": "R. Howell",
+    "26": "S. George",
+    "29": "V. Ambroz",
+    "68": "A. Ambrose",
+    "51": "H. Slee",
+    "32": "R. Ambroz",
+    "13": "A. Bisesi",
+    "31": "A. Wigley",
+    "10": "R. Dog",
+    "00":"Guest Player",
+    " 0":"Guest Player",
+    " 1":"Guest Player",
+    " 2":"Guest Player",
+    " 3":"Guest Player",
+    " 4":"Guest Player",
+    " 5":"Guest Player",
+    " 6":"Guest Player",
+    " 7":"Guest Player",
+    " 8":"Guest Player",
+    "89":"Guest Player",
+    "91":"Guest Player",
+    "92":"Guest Player",
+    "93":"Guest Player",
+    "94":"Guest Player",
+    "95":"Guest Player",
+    "96":"Guest Player",
+    "97":"Guest Player",
+    "98":"Guest Player",
+    "99":"Guest Player",
+    "69":"D. Paige",
+    "41":"K. Rothgery",
+    "16":"A. Heatwole",
+    "17":"P. Ostrander",
+    "90":"B. Colleran",
+    "45":"W. Pfieffer"},
+"ber":
+{" 9":"R. Dog","11":"B. Kinnaird","16":"A. Heatwole","17":"P. Ostrander","18":"M. Wheelock","41":"K. Rothgery","45":"W. Pfieffer","35":"J. Brown"},
+"hbc":
+{" 3":"R. Doerr"," 6":"L. Keller"," 7":"T. Hacke"," 9":"H. Nicklas","17":"P. Kent","18":"A. Brown","21":"T. Maldet","22":"E. Brown","28":"A. Heffrin","29":"C. Dzurik","39":"D. Luden","42":"C. Dolph","44":"S. Grychowski","68":"C. Breckenridge","71":"D. Strasser","81":"T. Guzowski","88":"G. Rowland","97":"L. McLaughlin"},
+"bmbv":
+{" 2":"M. Santiago"," 1":"D. Maddox"," 3":"T. Clay"," 4":"R. Braaten"," 5":"C. Valentin","10":"A. Alexander","11":"N. Reece","12":"V. Weaver","13":"C. Maloney","14":"E. Johnson","20":"T. Simon","22":"J. Russo","24":"A. Spraggins"},
+"bmgv":
+{" 1":"E. Orcutt"," 3":"C. Friel"," 5":"A. James","10":"E. Arnold","11":"M. Nichols-Price","12":"T. Kowalewski","13":"R. Szojka","14":"B. Miller","20":"G. Forgach","23":"L. Lantow","24":"C. Simon","55":"R. Braaten"},
+"vfbv":
+{" 0":"K. Parikh"," 1":"E. Anthony"," 2":"J. Bizzell"," 3":"C. Wadsworth"," 4":"M. Davis-Mea..."," 5":"I. Paoletto","11":"B. Wolf","12":"T. Chong","14":"J. Gill","23":"A. Smith"},
+"elbv":
+{" 0":"C. Bell"," 1":"R. Grimmett"," 2":"J. Daniels"," 3":"L. Anderson"," 4":"D. Crawford"," 5":"T. Blanton","10":"J. Crutcher","12":"X. Church","15":"N. Rogers","23":"C. Rogers","24":"P. Alston","25":"B. Todd","33":"F. Turner"},
+"fire":
+{" 1":"D. Linn"," 2":"C. Radman"," 3":"T. Karolak"," 4":"R. Copen"," 5":"N. Gotsis","10":"N. Dunfee","23":"M. Stinson","25":"N. Duke","32":"J. Aunspaw","33":"N. Draga"},
+"dukes":
+{" 1":"L. Wright"," 2":"S. Whitehouse"," 3":"C. Kinser"," 4":"A. Michalak"," 5":"L. Whitehouse","10":"N. Michalak","11":"A. Frenk","12":"D. Roldan","14":"L. Marroni","21":"B. Lehmkuhl","23":"S. Brasee","24":"D. Wirth","31":"D. Juchnik","33":"C. McKenzie"},
+"gwr":
+{"100":"100 Wrestler", "105":"105 Wrestler", "110":"110 Wrestler", "115":"115 Wrestler", "120":"120 Wrestler", "125":"125 Wrestler", "130":"130 Wrestler", "135":"135 Wrestler", "140":"140 Wrestler", "145":"145 Wrestler", "155":"155 Wrestler", "170":"170 Wrestler", "190":"190 Wrestler", "235":"235 Wrestler"},
+"bwr":
+{"106":"106 Wrestler", "113":"113 Wrestler", "120":"120 Wrestler", "126":"126 Wrestler", "132":"132 Wrestler", "138":"138 Wrestler", "144":"144 Wrestler", "150":"150 Wrestler", "157":"157 Wrestler", "165":"165 Wrestler", "175":"175 Wrestler", "190":"190 Wrestler", "215":"215 Wrestler", "285":"285 Wrestler"},
+"ditsblank":
+{"106":"106 Wrestler (M)","113":"113 Wrestler (M)","120":"120 Wrestler (M)","126":"126 Wrestler (M)","132":"132 Wrestler (M)","138":"138 Wrestler (M)","144":"144 Wrestler (M)","150":"150 Wrestler (M)","157":"157 Wrestler (M)","165":"165 Wrestler (M)","175":"175 Wrestler (M)","190":"190 Wrestler (M)","215":"215 Wrestler (M)","285":"285 Wrestler (M)","100":"100 Wrestler (W)","105":"105 Wrestler (W)","110":"110 Wrestler (W)","115":"115 Wrestler (W)","20":"120 Wrestler (W)","125":"125 Wrestler (W)","130":"130 Wrestler (W)","135":"135 Wrestler (W)","140":"140 Wrestler (W)","145":"145 Wrestler (W)","155":"155 Wrestler (W)","170":"170 Wrestler (W)","90":"190 Wrestler (W)","235":"235 Wrestler (W)"},
+"ditsh":
+{"106":"Forfeit", "113":"D. Nofel", "120":"C. Mikulka", "126":"A. Mendez", "132":"B. DeBlasis", "138":"D. DeVincent", "144":"G. Crowley", "150":"B. Valek", "157":"X. Harden", "165":"A. LaForce", "175":"N. Finley", "190":"I. Stewart", "215":"L. Lavdas", "285":"T. Visnic","100":"100 Wrestler", "105":"A. Stout", "110":"110 Wrestler (W)", "115":"M. Ramic", "20":"G. McDermott", "125":"M. Finley", "135":"M. Kubicki", "140":"A. Williams", "145":"A. Ross", "":"145 Wrestler (W)", "155":"S. Langenderfer", "170":"170 Wrestler", "90":"190 Wrestler", "235":"D. Borders","0":"Titans"},
+"ditsv":
+{"106":"H. Smith","113":"M. Eddir","120":"M. Rusinko","126":"N. Janakovich","132":"A. Velotta","138":"T. Petkov","144":"N. Carrossellia","150":"D. Grecol","157":"D. Albert","165":"K. Gadalah","175":"J. Bednar","190":"W. Harhay","215":"D. Serrano","285":"J. Mohammad","100":"100 Wrestler (W)","105":"A. Zoscak","110":"110 Wrestler (W)","115":"E. Beqiri (NOR)","20":"S. Januszewski","125":"C. Vokac","130":"B. Bednar","135":"S. Borros","140":"T. Powell","145":"J. Flynn","155":"155 Wrestler","170":"170 Wrestler (W)","90":"190 Wrestler (W)","235":"L. Simmons (NOR)", "0":"Visiting Team"},
+"rockets":
+{"11":"Braeden","42":"Rocket","00":"Ike","85":"L. Blue","71":"B. Blue","79":"Barkey","78":"Scout","88":"Greenie"},
+"barnacles":
+{" 3":"T. Clay"," 5":"A. Clay","22":"C. Clark","15":"I. Thomas","23":"L. James","33":"L. Bird","11":"L. Motley","00":"B. Motley"}
+}
